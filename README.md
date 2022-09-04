@@ -1,5 +1,6 @@
 # 🙏 Namaste-BlockChain 🙏
-Contains simplified version of blockchain notes
+Contains simplified version of blockchain notes<br>
+#**CHAIN** se padho
 
 <ul>
 <li><h3>Web 1.0 VS Web 2.0 VS Web 3.0 </h3>
