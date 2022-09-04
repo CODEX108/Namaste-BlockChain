@@ -1,4 +1,4 @@
-# Namaste-BlockChain
+# 🙏 Namaste-BlockChain 🙏
 Contains simplified version of blockchain notes
 
 <ul>
