@@ -40,6 +40,12 @@ Instead of a Web monopolized by large technology companies, Web3 embraces decent
 <li><h3>What is a Crypto Wallet👛</h3>
 <li><h3>What is Ethereum Gas? ⛽</h3>
 <li><h3>What is Meta Mask🦊?</h3>
+<hr>
+<details>
+<summary><h3>What are Smart Contracts?</h3></summary>
+<br>
+Smart contracts are the fundamental building blocks of Ethereum applications. They are computer programs stored on the blockchain that allows us to convert traditional contracts into digital parallels. Smart contracts are very logical - following an if this then that structure. This means they behave exactly as programmed and cannot be changed.
+</details>
 </ul>
 
 # Latest BlockChain Updates
