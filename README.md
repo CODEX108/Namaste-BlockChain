@@ -39,8 +39,6 @@ Instead of a Web monopolized by large technology companies, Web3 embraces decent
 </details>
  <hr>
   
-
-
 <details>
 <summary><h3>What is a block?🅱</h3></summary>
 <br>
@@ -50,10 +48,15 @@ A blockchain network’s transactions are composed of sequential groups of data 
 
 <details>
 <summary><h3>What is blockchain?🅱⛓️</h3></summary>
-<p>A blockchain is a distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.</p>
 
-<p>One key difference between a typical database and a blockchain is that a database usually structures its data into tables, whereas a blockchain, as its name implies, structures its data into chunks (blocks) that are strung together. This data structure inherently makes an irreversible timeline of data when implemented in a decentralized nature. When a block is filled, it is set in stone and becomes a part of this timeline. Each block in the chain is given an exact timestamp when it is added to the chain.</p>
+![Diagram of Pow](https://img.money.com/2022/06/What-Is-Blockchain-Infographic.jpg?quality=60)
+<p>A blockchain is a distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. 
 
+Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. 
+The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.
+
+One key difference between a typical database and a blockchain is that a database usually structures its data into tables, whereas a blockchain, as its name implies, structures its data into chunks (blocks) that are strung together. This data structure inherently makes an irreversible timeline of data when implemented in a decentralized nature. When a block is filled, it is set in stone and becomes a part of this timeline. Each block in the chain is given an exact timestamp when it is added to the chain.</p>
+<br>
 > Key Takeaways
   1. Blockchain is a type of shared database that differs from a typical database in the way that it stores information, blockchains 
   store data in blocks that are then linked together via cryptography.
@@ -64,7 +67,43 @@ A blockchain network’s transactions are composed of sequential groups of data 
   
 </details>
 <hr>
-<li><h3>What is Proof Of Work?</h3>
+<details>
+<summary><h3>What is Proof Of Work?</h3></summary>
+
+<p>PoW or proof of work is a special protocol that aims to deter cyber-attacks such as DDoS (distributed denial-of-service attacks), which can use up the resources of a computer stem with the help of multiple fake requests. It uses a trustless and distributed consensus system.
+
+PoW implements a decentralized system and works without needing a central authority. The PoW consensus mechanism can verify transactions without needing a third party. PoW makes double-spending difficult by proving that every user has done several computations. Many other blockchain projects that copied the original Bitcoin code also follow the Proof of Work model.</p>
+
+### How Does PoW Work?
+![Diagram of Pow](https://www.guru99.com/images/pow-vs-pos-2.png)
+
+<br>
+<p>Proof of work requires an expensive computer calculation or, in other words, the process of mining. Mining needs to be performed to create trustless transactions on the blockchain.</p>
+
+Step 1) Transactions are compiled and bundled up together in the form of a block.
+
+Step 2) Miners then verify transactions within each block, checking to see if they are legitimate.
+
+Step 3) Miners then solve a mathematical puzzle known as a proof of work problem to proceed. All miners have to compete.
+
+Step 4) The first miner who solves each block problem is rewarded.
+
+Step 5) The verified transactions are then stored on the blockchain.
+<br>
+> makes it expensive to cheat, but profitable to act honestly
+<p>In Proof-of-work any block that includes an invalid transaction will be automatically rejected by the network. It’s expensive for you to even attempt to cheat. You’ll waste your own resources without any reward.
+<br>
+
+### Advantages of PoW
+
+- Proof-of-Work was invented to stop double-spending attempts.
+- It is one of the most secure consensus mechanisms.
+- Cryptos based on PoW has more mining power and are more secure.
+- Mining earns rewards in a typical PoW model.
+- Proof of work is random yet fair.
+</details>
+<hr>
+
 <li><h3>What is a Crypto Wallet👛</h3>
 <li><h3>What is Ethereum Gas? ⛽</h3>
 <li><h3>What is Meta Mask🦊?</h3>
