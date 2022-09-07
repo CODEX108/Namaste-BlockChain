@@ -47,7 +47,23 @@ Instead of a Web monopolized by large technology companies, Web3 embraces decent
 A blockchain network’s transactions are composed of sequential groups of data that are packaged together into “blocks” strung together linearly. Each block also contains a set of transaction data that is processed once the block is finalized. The individual blocks that make up the larger blockchain contain crucial information for the functioning of the network. Each new block contains cryptographically verifiable data regarding transactions, as well as a numerical challenge that must be completed in order for the current block to be approved and added to the blockchain. 
 </details>
 <hr>
-<li><h3>What is blockchain?</h3>
+
+<details>
+<summary><h3>What is blockchain?🅱⛓️</h3></summary>
+<p>A blockchain is a distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.</p>
+
+<p>One key difference between a typical database and a blockchain is that a database usually structures its data into tables, whereas a blockchain, as its name implies, structures its data into chunks (blocks) that are strung together. This data structure inherently makes an irreversible timeline of data when implemented in a decentralized nature. When a block is filled, it is set in stone and becomes a part of this timeline. Each block in the chain is given an exact timestamp when it is added to the chain.</p>
+
+> Key Takeaways
+  1. Blockchain is a type of shared database that differs from a typical database in the way that it stores information, blockchains 
+  store data in blocks that are then linked together via cryptography.
+  2. As new data comes in, it is entered into a fresh block. Once the block is filled with data, it is chained onto the previous block, which makes the data chained together in chronological order.
+  3. Different types of information can be stored on a blockchain, but the most common use so far has been as a ledger for transactions.
+  4. In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control—rather, all users collectively retain control.
+  5. Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and      viewable to anyone.
+  
+</details>
+<hr>
 <li><h3>What is Proof Of Work?</h3>
 <li><h3>What is a Crypto Wallet👛</h3>
 <li><h3>What is Ethereum Gas? ⛽</h3>
