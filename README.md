@@ -59,7 +59,7 @@ A blockchain network’s transactions are composed of sequential groups of data 
   store data in blocks that are then linked together via cryptography.
   2. As new data comes in, it is entered into a fresh block. Once the block is filled with data, it is chained onto the previous block, which makes the data chained together in chronological order.
   3. Different types of information can be stored on a blockchain, but the most common use so far has been as a ledger for transactions.
-  4. In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control—rather, all users collectively retain control.
+  4. In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control, rather all users collectively retain control.
   5. Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and      viewable to anyone.
   
 </details>
