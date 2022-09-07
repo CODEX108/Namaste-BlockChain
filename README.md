@@ -34,7 +34,14 @@ Instead of a Web monopolized by large technology companies, Web3 embraces decent
 </details>
  <hr>
   
-<li><h3>What is a block?🅱</h3>
+
+
+<details>
+<summary><h3>What is a block?🅱</h3></summary>
+<br>
+A blockchain network’s transactions are composed of sequential groups of data that are packaged together into “blocks” strung together linearly. Each block also contains a set of transaction data that is processed once the block is finalized. The individual blocks that make up the larger blockchain contain crucial information for the functioning of the network. Each new block contains cryptographically verifiable data regarding transactions, as well as a numerical challenge that must be completed in order for the current block to be approved and added to the blockchain. 
+</details>
+<hr>
 <li><h3>What is blockchain?</h3>
 <li><h3>What is Proof Of Work?</h3>
 <li><h3>What is a Crypto Wallet👛</h3>
