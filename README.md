@@ -115,6 +115,13 @@ Smart contracts are the fundamental building blocks of Ethereum applications. Th
 </details>
 </ul>
 
+<details>
+<summary><h3>What is Ethereum Merge?</h3></summary>
+<br>
+The Merge represents the joining of the existing execution layer of Ethereum (the Mainnet we use today) with its new proof-of-stake consensus layer, the Beacon Chain. It eliminates the need for energy-intensive mining and instead secures the network using staked ETH. A truly exciting step in realizing the Ethereum vision – more scalability, security, and sustainability.
+</details>
+</ul>
+
 # Latest BlockChain Updates
 
 <a href="https://academy.binance.com/en/start-here"><b>- Explore This</b></a>
