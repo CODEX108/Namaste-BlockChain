@@ -115,6 +115,7 @@ Smart contracts are the fundamental building blocks of Ethereum applications. Th
 </details>
 </ul>
 
+<hr>
 <details>
 <summary><h3>What is Ethereum Merge?</h3></summary>
 <br>
