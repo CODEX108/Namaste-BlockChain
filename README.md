@@ -127,5 +127,5 @@ The Merge represents the joining of the existing execution layer of Ethereum (th
 
 # Latest BlockChain Updates
 
-<a href="https://www.coinbase.com/ethereum-merge"><b>- Explore This</b></a>
+
 <a href="https://academy.binance.com/en/start-here"><b>- Explore This</b></a>
