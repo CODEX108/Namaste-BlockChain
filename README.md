@@ -63,10 +63,44 @@ One key difference between a typical database and a blockchain is that a databas
   2. As new data comes in, it is entered into a fresh block. Once the block is filled with data, it is chained onto the previous block, which makes the data chained together in chronological order.
   3. Different types of information can be stored on a blockchain, but the most common use so far has been as a ledger for transactions.
   4. In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control, rather all users collectively retain control.
-  5. Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and      viewable to anyone.
+  5. Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and viewable to anyone.
   
 </details>
 <hr>
+
+<details>
+<summary><h3>What is a Crypto currency 💱</h3></summary>
+
+![Crypto currency](https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/SOIN0521188_1560x880_desktop.jpg)
+<br>
+<p>
+  A cryptocurrency is a form of digital asset based on a network that is distributed across a large number of computers. This decentralized structure allows them to exist outside the control of governments and central authorities.
+
+### Types of Cryptocurrency
+1. Bitcoin
+2. Ether (Ethereum)
+3. Tether
+4. Binance Coin
+</p>
+<a href = "https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/types-of-cryptocurrencies/" target = "_blank">Explore Crypytocurrency in detail</a>
+</details>
+<hr>
+
+<details>
+<summary><h3>What is a Crypto wallet 👛</h3></summary>
+
+![Crypto wallet](https://images.ctfassets.net/q5ulk4bp65r7/3GXsKOhU34b8g8FYMf2Y6x/991f9abe5d7fc74b662095a6ac20c17e/Learn_Illustration_What_is_a_Crypto_Wallet.jpg?w=768&fm=png)
+<br>
+<p>
+  Crypto wallets store your private keys, keeping your crypto safe and accessible. They also allow you to send, receive, and spend cryptocurrencies like Bitcoin and Ethereum.
+
+### Why are crypto wallets important?
+Unlike a normal wallet, which can hold actual cash, crypto wallets technically don’t store your crypto. Your holdings live on the blockchain, but can only be accessed using a private key. Your keys prove your ownership of your digital money and allow you to make transactions. If you lose your private keys, you lose access to your money. That’s why it’s important to keep your hardware wallet safe, or use a trusted wallet provider like Coinbase.
+</p>
+<a href = "https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet" target = "_blank">Learn more about wallets</a>
+</details>
+<hr>
+
 <details>
 <summary><h3>What is Proof Of Work?</h3></summary>
 
@@ -101,10 +135,88 @@ Step 5) The verified transactions are then stored on the blockchain.
 - Cryptos based on PoW has more mining power and are more secure.
 - Mining earns rewards in a typical PoW model.
 - Proof of work is random yet fair.
+<br>
+
+### Proof of work examples
+<p>
+  Proof of work model has existed for a long time so let us go through some examples of PoW.
+
+Emails
+
+The first example we shall explore is emails attached with a lengthy piece of text. Ordinary computers can send millions of emails per day, but executing other tasks and receiving a lot of spam can affect its efficiency and reduce processing costs. PoW is used to lower processing cycles by providing complex computation problems which enhance security.
+
+Cryptocurrencies
+
+One of the most famously used examples of PoW is mining a cryptocurrency. The PoW model ensures that miners have direct authority within the network. It also prevents double-spending attacks from occurring. Miners have a fixed income because PoW includes enough headers in new blocks.
+
+DDoS
+
+Another example of PoW is migrating DDoS attacks that cause inconvenience and disruptions. The PoW algorithm solves complex mathematical problems by getting a collective solution. PoW helps to solve problems in a distributed sort of way. This way, even a small number of participants can solve complex problems.
+</p>
 </details>
 <hr>
 
-<li><h3>What is a Crypto Wallet👛</h3>
+<details>
+<summary><h3>What is Proof Of Stake?</h3></summary>
+
+<p>In the case of proof of work, that cost is computing power.This requires an enormous amount of computing power and, thus, electricity. Ethereum uses 113 terawatt-hours per year—as much power as the Netherlands, according to Digiconomist. A single Ethereum transaction can consume as much power as an average US household uses in more than a week. Bitcoin’s energy consumption is even worse.
+
+Proof of stake (PoS) is a type of consensus mechanism which is used to validate transactions on the blockchain. It works by allowing cryptocurrency owners to stake their coins. This gives them the right to verify new blocks of transactions on the blockchain and add them to the network.
+
+An algorithm selects from a pool of validators based on the amount of funds they have locked up. The more you stake, the greater your chance of “winning the lottery.” If you’re chosen and your block is accepted by a committee of “attestors”—a group of validators randomly chosen by an algorithm—you are awarded newly minted ether.
+ </p>
+
+### How Does PoS Work?
+![Diagram of Pow](https://www.guru99.com/images/pow-vs-pos-v1.webp)
+
+<br>
+<p>In theory, PoS is an “ideal” solution for scaling problems within the PoW mechanism. Ethereum 2.0 will be 100% proof-of-stake. Hence it will process its transactions, NFT transactions, and execute smart contract transactions.</p>
+
+Step 1) Users who own native tokens of a blockchain store all or a part of it in staking pools safely.
+
+Step 2) The algorithm pseudo-randomly chooses the next validator in line.
+
+Step 3) The chosen validator has to propose a block and the number of transactions in it.
+
+Step 4) Other participants get to approve and verify the proposed transaction.
+
+Step 5) A new block is added to the blockchain.
+
+Step 5) The selected validator earns a transaction fee.
+<br>
+  > Everyone is equal
+<p>The Proof-of-Work model has become an unfair system where common participants have no chance of getting the mining rewards. But the same is not true for proof-of-stake, where everyone gets an equal opportunity to become a forger and get rewards.
+<br>
+
+### Advantages of PoS
+
+- The PoS mechanism is safe from 51% of attacks.
+- The Proof-of-stake does not need expensive hardware for processing.
+- Transactions are faster and relatively inexpensive.
+- Processing in the case of PoS does not use much energy.
+- Stakes act as a financial motivator in the PoS model.
+<br>
+
+### Proof of Stake Examples
+<p>
+Proof-of-Stake is the so-called better way of solving cryptographic problems. Following are a few cryptocurrencies that use the PoS model that is faster and more secure than PoW.
+
+Tezos:
+
+The decentralized network of Tezos includes an incentive mechanism that rewards validators. For maintaining and securing the network, validators receive newly-created tokens. Stakes increase as new participants enter the network and become active. The PoS system in Tezos also protects rewards and blockchain data from tampering.
+
+Ethereum 2.0:
+
+The co-founder of Ethereum, Vitalik Buterin, proposed the Ethereum Improvement Proposal in 2016. It uses a modified version of the PoW algorithm called Sharding. The concept of Sharding can improve network performance by holding more hash power. Sharding would also increase the number of transactions in a block.
+
+Cosmos:
+
+Cosmos is popular for deploying a PoS network for widespread use (more than Bitcoin). By securing millions of users, the project hopes to become the largest PoS-based coin. Its target audience includes people who do not have access to the banking system.
+</p>
+
+</details>
+<hr>
+
 <li><h3>What is Ethereum Gas? ⛽</h3>
 <li><h3>What is Meta Mask🦊?</h3>
 <hr>
@@ -120,6 +232,10 @@ Smart contracts are the fundamental building blocks of Ethereum applications. Th
 <summary><h3>What is Ethereum Merge?</h3></summary>
 <br>
 The Merge represents the joining of the existing execution layer of Ethereum (the Mainnet we use today) with its new proof-of-stake consensus layer, the Beacon Chain. It eliminates the need for energy-intensive mining and instead secures the network using staked ETH. A truly exciting step in realizing the Ethereum vision – more scalability, security, and sustainability.
+
+After the blockchains merge, Ethereum will introduce sharding, a method of breaking down the single Ethereum blockchain into 64 separate chains, which will all be coordinated by the Beacon Chain.
+
+Shard chains will allow for parallel processing, so the network can scale and support many more users than it currently does. Many see the inclusion of shard chains as the official completion of the Ethereum 2.0 upgrade, but it’s not scheduled to happen until 2023.
 
 <a href="https://www.coinbase.com/ethereum-merge"><b>- Explore This</b></a>
 </details>
