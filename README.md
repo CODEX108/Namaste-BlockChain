@@ -75,6 +75,9 @@ One key difference between a typical database and a blockchain is that a databas
 <br>
 <p>
   A cryptocurrency is a form of digital asset based on a network that is distributed across a large number of computers. This decentralized structure allows them to exist outside the control of governments and central authorities.
+  
+  <b>OR<b><br>
+ A digital currency that is secured by cryptography and is, typically, used as a medium of exchange within a peer-to-peer (P2P) digital economic system. The use of cryptographic techniques is what ensures that these systems are completely immune to fraud and counterfeiting
 
 ### Types of Cryptocurrency
 1. Bitcoin
