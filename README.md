@@ -219,7 +219,14 @@ Cosmos is popular for deploying a PoS network for widespread use (more than Bitc
 
 </details>
 <hr>
-
+<details>
+  <summary><h3>What is Fiat Currency?💵</h3></summary>
+  <br>
+  <img src="https://imgs.search.brave.com/pAcI6z8ufoNs1B4Rh-MmA2lYfFYAxj2xcmI8i9bKMm8/rs:fit:1200:669:1/g:ce/aHR0cHM6Ly93d3cu/ZWhvd3BvcnRhbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDcvQ3J5cHRv/Y3VycmVuY3ktdnMt/RmlhdC5wbmc"/>
+  <p>Simply put, fiat currency is legal tender that derives its value from its issuing government rather than a physical good or commodity. The strength of the government that establishes the value of fiat currency is key in this type of money. Most countries around the world use the fiat currency system to purchase goods and services, invest, and save. Fiat currency replaced the gold standard and other commodity-based systems in establishing the value of legal tender.</p>
+</details>
+  <br>
+  <hr>
 <li><h3>What is Ethereum Gas? ⛽</h3>
 <li><h3>What is Meta Mask🦊?</h3>
 <hr>
