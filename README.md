@@ -227,6 +227,17 @@ Cosmos is popular for deploying a PoS network for widespread use (more than Bitc
 </details>
   <br>
   <hr>
+  
+  <details>
+  <summary><h3>What is a NONCE?🔢</h3></summary>
+  <br>
+  <p>A nonce refers to a number or value that can only be used once. Nonces are often used on authentication protocols and cryptographic hash functions. In the         context of blockchain technology, a nonce refers to a pseudo-random number that is utilized as a counter during the process of mining.<br>
+    For instance, Bitcoin miners need to try and guess a valid nonce as they perform multiple attempts to calculate a block hash that meets certain requirements         (i.e., that starts with a certain number of zeros). When competing to mine a new block, the first miner to find a nonce that results in a valid block hash is       granted the right to add the next block into the blockchain - and is rewarded for doing so.</p>
+  </details>
+  
+  <hr>
+  
+  
 <li><h3>What is Ethereum Gas? ⛽</h3>
 <li><h3>What is Meta Mask🦊?</h3>
 <hr>
