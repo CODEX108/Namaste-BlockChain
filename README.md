@@ -170,7 +170,7 @@ Another example of PoW is migrating DDoS attacks that cause inconvenience and di
 
 <details>
 <summary><h3>What is Proof Of Stake?</h3></summary>
-
+<img src="https://assets-global.website-files.com/5f973c97cf5aea614f93a26c/625f49289223829891bbae8f_fUMds3mxl60CNYAIOkN_VtCH5TR22thrjUxdyegR4JG9dUJQVPuRCIe2DMpuEJiRzVW1XuHq1_F3nmf5FiL7H_uo0uPNF4cLDcP9I9tM49HJd23anfN9ulFwvIbkhVYRC5L8WwTk.png"/>
 <p>In the case of proof of work, that cost is computing power.This requires an enormous amount of computing power and, thus, electricity. Ethereum uses 113 terawatt-hours per year—as much power as the Netherlands, according to Digiconomist. A single Ethereum transaction can consume as much power as an average US household uses in more than a week. Bitcoin’s energy consumption is even worse.
 
 Proof of stake (PoS) is a type of consensus mechanism which is used to validate transactions on the blockchain. It works by allowing cryptocurrency owners to stake their coins. This gives them the right to verify new blocks of transactions on the blockchain and add them to the network.
