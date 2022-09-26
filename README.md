@@ -69,6 +69,15 @@ One key difference between a typical database and a blockchain is that a databas
 <hr>
 
 <details>
+<summary><h3>What is a hashing function</h3></summary>
+<p>
+A hashing function is a system where you can put something into it, and it’ll output a hash. There’s a ton of math happening inside this “magical black box”, but essentially you give it something and it gives you something. In this case, bitcoin uses SHA-256 hashing function. SHA stands for “Secure Hashing Algorithm” and 256 refers to the amount of 0 and 1s that it has in whatever it puts out. Whether you put it your name or the entire dictionary, it’ll always be 256 1s and 0s. Our computers are smart and so they convert those 0 and 1s to letters and numbers.
+</p>
+</details>
+
+<hr>
+
+<details>
 <summary><h3>What is a Crypto currency 💱</h3></summary>
 
 ![Crypto currency](https://d32ijn7u0aqfv4.cloudfront.net/wp/wp-content/uploads/raw/SOIN0521188_1560x880_desktop.jpg)
