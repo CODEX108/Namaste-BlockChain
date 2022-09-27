@@ -246,8 +246,13 @@ Cosmos is popular for deploying a PoS network for widespread use (more than Bitc
   
   <hr>
   
+  <details>
+  <summary><h3>What is Ethereum Gas? ⛽</h3></summary>
+    <br>
+    <p> The concept of gas was introduced to compensate miners(Miners can be defined as accountants who record every transaction to the blockchain.) for their work done on maintaining and securing the blockchain. After the proof of stake algorithm was rolled out in September 2022, gas fees became the reward for staking ETH and participating in validation—the more a user has staked, the more they can earn. On the Ethereum platform, “gas” is a unit describing the amount of computational power needed to execute specific operations on the network. Gas is the fee required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform. Fees are priced in tiny fractions of the cryptocurrency ether (ETH)—denominations called gwei (10-9 ETH). Gas is used to pay validators for the resources needed to conduct transactions.</p>
+  </details>
+  <hr>
   
-<li><h3>What is Ethereum Gas? ⛽</h3>
 <li><h3>What is Meta Mask🦊?</h3>
 <hr>
 <details>
