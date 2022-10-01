@@ -253,7 +253,15 @@ Cosmos is popular for deploying a PoS network for widespread use (more than Bitc
   </details>
   <hr>
   
-<li><h3>What is Meta Mask🦊?</h3>
+  
+<details>
+<summary><h3>What is Meta Mask🦊?</h3></summary>
+<br>
+<p>MetaMask is a free crypto wallet software that can be connected to virtually any Ethereum-based platform. The extension injects the Ethereum web3 API into every website's javascript context, so that dapps can read from the blockchain.
+MetaMask also lets the user create and manage their own identities (via private keys, local client wallet and hardware wallets like Trezor™), so when a Dapp wants to perform a transaction and write to the blockchain, the user gets a secure interface to review the transaction, before approving or rejecting it.
+</p>
+</details>
+
 <hr>
 <details>
 <summary><h3>What are Smart Contracts?</h3></summary>
@@ -263,17 +271,19 @@ Smart contracts are the fundamental building blocks of Ethereum applications. Th
 </ul>
 
 <hr>
+
 <details>
-<summary><h3>What is Ethereum Merge?</h3></summary>
+<summary><h3>What is Ethereum Merge?🔀</h3></summary>
 <br>
 The Merge represents the joining of the existing execution layer of Ethereum (the Mainnet we use today) with its new proof-of-stake consensus layer, the Beacon Chain. It eliminates the need for energy-intensive mining and instead secures the network using staked ETH. A truly exciting step in realizing the Ethereum vision – more scalability, security, and sustainability.
 
 After the blockchains merge, Ethereum will introduce sharding, a method of breaking down the single Ethereum blockchain into 64 separate chains, which will all be coordinated by the Beacon Chain.
-
 Shard chains will allow for parallel processing, so the network can scale and support many more users than it currently does. Many see the inclusion of shard chains as the official completion of the Ethereum 2.0 upgrade, but it’s not scheduled to happen until 2023.
-
 <a href="https://www.coinbase.com/ethereum-merge"><b>- Explore This</b></a>
 </details>
+
+
+
 </ul>
 
 # Latest BlockChain Updates
