@@ -1,6 +1,8 @@
-# 🙏 Namaste-BlockChain 🙏
-Contains simplified version of blockchain notes<br>
-#**CHAIN** se padho
+# 🙏 Namaste🔗BlockChain 🙏
+
+<h4> If you are a bit overwhelmed by the whole concept of Blockchain & Cryptocurrency , no worries you get start by taking one step at a time , so here's the team BLOCKSPIRIT presenting the knits and grits of blockchain basics.</h4>
+
+<br>
 
 <h4><b>Who invented Bitcoin?</b></h4>
 Amazingly, nobody knows who invented Bitcoin. We only know them by their screen name - Satoshi Nakamoto. Satoshi could be a single person, a group of programmers, or if you believe some of the weirder theories, a time-traveling alien or secret government team.Satoshi published a 9-page <a href="https://bitcoin.org/bitcoin.pdf">document</a> in 2008, detailing how the Bitcoin system worked. Months later, in 2009, the software itself was released.
