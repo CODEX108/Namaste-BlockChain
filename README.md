@@ -264,18 +264,21 @@ MetaMask also lets the user create and manage their own identities (via private 
 
 <hr>
 <details>
-<summary><h3>What are Smart Contracts?</h3></summary>
+<summary><h3>What are Smart Contracts?🤝</h3></summary>
 <br>
-Smart contracts are the fundamental building blocks of Ethereum applications. They are computer programs stored on the blockchain that allows us to convert traditional contracts into digital parallels. Smart contracts are very logical - following an if this then that structure. This means they behave exactly as programmed and cannot be changed.
+  <p>
+  A "smart contract" is simply a program that runs on the Ethereum blockchain. It's a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+
+Smart contracts are a type of Ethereum account. This means they have a balance and can be the target of transactions. However they're not controlled by a user, instead they are deployed to the network and run as programmed. User accounts can then interact with a smart contract by submitting transactions that execute a function defined on the smart contract. Smart contracts can define rules, like a regular contract, and automatically enforce them via the code. Smart contracts cannot be deleted by default, and interactions with them are irreversible.</p>
 </details>
 </ul>
 
-<hr>
+ <hr>
 
-<details>
-<summary><h3>What is Ethereum Merge?🔀</h3></summary>
-<br>
-The Merge represents the joining of the existing execution layer of Ethereum (the Mainnet we use today) with its new proof-of-stake consensus layer, the Beacon Chain. It eliminates the need for energy-intensive mining and instead secures the network using staked ETH. A truly exciting step in realizing the Ethereum vision – more scalability, security, and sustainability.
+ <details>
+ <summary><h3>What is Ethereum Merge?🔀</h3></summary>
+ <br>
+ The Merge represents the joining of the existing execution layer of Ethereum (the Mainnet we use today) with its new proof-of-stake consensus layer, the Beacon     Chain. It eliminates the need for energy-intensive mining and instead secures the network using staked ETH. A truly exciting step in realizing the Ethereum vision –  more scalability, security, and sustainability.
 
 After the blockchains merge, Ethereum will introduce sharding, a method of breaking down the single Ethereum blockchain into 64 separate chains, which will all be coordinated by the Beacon Chain.
 Shard chains will allow for parallel processing, so the network can scale and support many more users than it currently does. Many see the inclusion of shard chains as the official completion of the Ethereum 2.0 upgrade, but it’s not scheduled to happen until 2023.
@@ -290,3 +293,5 @@ Shard chains will allow for parallel processing, so the network can scale and su
 
 
 <a href="https://academy.binance.com/en/start-here"><b>- Explore This</b></a>
+
+
