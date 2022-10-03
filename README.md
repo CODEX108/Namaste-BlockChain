@@ -257,6 +257,15 @@ Cosmos is popular for deploying a PoS network for widespread use (more than Bitc
   </details>
   <hr>
   
+  <details>
+  <summary><h3>What is staking? </h3> </summary>
+  <br>
+  <p>
+  Staking has become a popular way for crypto investors to grow their holdings without having to sell their digital assets. Staking can be seen as the crypto equivalent of putting your funds in a savings account. The difference is that, when you deposit money in your savings account, the bank ends it out to others, sharing the interest with you. When you stake your crypto, you lock up your digital assets to participate in maintaining the security of a blockchain network, earning rewards in return.
+  </p>
+  </details>
+  
+  <hr>
   
 <details>
 <summary><h3>What is Meta Mask🦊?</h3></summary>
