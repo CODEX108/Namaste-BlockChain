@@ -265,6 +265,19 @@ Cosmos is popular for deploying a PoS network for widespread use (more than Bitc
   </p>
   </details>
   
+  
+  <hr>
+  
+  <details>
+  <summary><h3>What is Metamask? </h3> </summary>
+  <br>
+  <p>
+  The Metamask wallet is basically a crypto wallet that provides support for ETH-based tokens such as ERC-721 and ERC-20 tokens. It is available as a browser plugin that you can install easily, just like any other browser extension. Interestingly, you can enjoy a seamless connection to any Ethereum-based decentralized app after installing the Metamask Chrome extension or Firefox extension. You could easily access any decentralized application like yield farming protocols and NFT marketplaces with the wallet. 
+With the facility of web browser integration in the form of plugins, you can have convenient experiences in the use of MetaMask. This is probably one of the foremost reasons for its rapidly increasing rates of adoption. As the demand for a decentralized web starts to gain momentum, MetaMask can serve as a gateway for you into a new world of exciting opportunities with dApps, web browsing, and DeFi, and blockchain technology. MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
+
+  </p>
+  </details>
+  
   <hr>
   
 <details>
@@ -297,7 +310,7 @@ After the blockchains merge, Ethereum will introduce sharding, a method of break
 Shard chains will allow for parallel processing, so the network can scale and support many more users than it currently does. Many see the inclusion of shard chains as the official completion of the Ethereum 2.0 upgrade, but it’s not scheduled to happen until 2023.
 <a href="https://www.coinbase.com/ethereum-merge"><b>- Explore This</b></a>
 </details>
-
+    
 
 
 </ul>
