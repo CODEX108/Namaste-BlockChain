@@ -308,4 +308,3 @@ Shard chains will allow for parallel processing, so the network can scale and su
 <a href="https://academy.binance.com/en/start-here"><b>- Explore This</b></a>
 
 
-..
