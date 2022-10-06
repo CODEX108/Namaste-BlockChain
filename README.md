@@ -1,6 +1,6 @@
 # 🙏 Namaste🔗BlockChain 🙏
 
-<h4> If you are a bit overwhelmed by the whole concept of Blockchain & Cryptocurrency , no worries you get start by taking one step at a time , so here's the team BLOCKSPIRIT presenting the knits and grits of blockchain basics.</h4>
+<h4> If you are a bit overwhelmed by the whole concept of Blockchain & Cryptocurrency , no worries you can get started by taking one step at a time , so here's the team BLOCKSPIRIT presenting the knits and grits of blockchain basics.</h4>
 
 ![github](https://user-images.githubusercontent.com/82377810/193424253-7de2ab37-8ce0-4901-bea5-1593e36f4979.png)
 
